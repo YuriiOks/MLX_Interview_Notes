@@ -50,6 +50,66 @@ For a visual representation, refer to the ER Diagram in the [Documentation/ERD.m
 ### Prerequisites
 - [Docker](https://www.docker.com/get-started)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- Alternatively, Python 3.8+ and the libraries in `requirements.txt` if running locally.
+- Alternatively, Python 3.8+ if running locally.
 
 ### Clone the Repository
+```bash
+git clone https://github.com/yourusername/hooptrax.git
+cd hooptrax
+```
+
+### Creating a Virtual Environment (Optional)
+Creating a virtual environment is a best practice to isolate your project dependencies.
+
+1. **Create the Virtual Environment:**
+   ```bash
+   python -m venv venv
+   ```
+
+2. **Activate the Virtual Environment:**
+   - **On macOS/Linux:**
+     ```bash
+     source venv/bin/activate
+     ```
+   - **On Windows:**
+     ```bash
+     venv\Scripts\activate
+     ```
+
+### Installing Dependencies
+Once your virtual environment is activated, install the required libraries:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+To run the application, use the following command:
+```bash
+docker-compose up
+```
+
+## Project Structure
+
+The project is organized as follows:
+- `app/`: Contains the Streamlit application code.
+- `data/`: Contains raw data and processed datasets.
+- `models/`: Contains trained machine learning models.
+- `scripts/`: Contains utility scripts for data processing and model training.
+- `tests/`: Contains unit tests for the application.
+
+## Documentation
+
+For more detailed information about the project architecture, data processing, and feature engineering, refer to the [Documentation](Documentation) directory.
+
+## Contributing
+
+We welcome contributions from the community! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute to the project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For any questions or inquiries, please contact us at [contact@hooptrax.com](mailto:contact@hooptrax.com).
