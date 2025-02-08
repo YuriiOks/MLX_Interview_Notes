@@ -1,10 +1,10 @@
 # [MLX Interview Notes Repository](https://github.com/YuriiOks/MLX-Interview-Notes)
 
-![GitHub contributors](https://img.shields.io/github/contributors/YuriiOks/MLX-Interview-Notes?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YuriiOks/MLX-Interview-Notes?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YuriiOks/MLX-Interview-Notes?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/YuriiOks/MLX-Interview-Notes?style=for-the-badge)
-![License](https://img.shields.io/github/license/YuriiOks/MLX-Interview-Notes?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
+![License](https://img.shields.io/github/license/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
 
 Welcome to the MLX Interview Notes Repository! This repository is a comprehensive compilation of interview notes, interactive notebooks, and a personal project developed as part of the MLX programme. It brings together detailed content showcasing skills in technology and data science.
 
