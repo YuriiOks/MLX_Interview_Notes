@@ -25,7 +25,7 @@ This repository serves a dual purpose:
 
 2. **Personal Project – HoopTrax:**  
    An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
-[View the project folder](https://github.com/YuriiOks/MLX-Interview-Notes/tree/main/Personal_Project/HoopTrax)
+[View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
 
 ---
 
@@ -38,7 +38,7 @@ This repository serves a dual purpose:
 - **Mathematics_📊:** Math concepts and exercises (Round1 & Round2).
 - **Networking_🌐🔗:** Networking fundamentals (Round1 & Round2).
 - **SQL_Postgres_🗄️🐘:** SQL and Postgres guides (Round1 & Round2).
-- **Personal_Project_🚀💡:** The HoopTrax project for NBA performance prediction and analysis.
+- **Personal_Project:** The HoopTrax project for NBA performance prediction and analysis.
 
 ---
 
@@ -83,16 +83,16 @@ Each topic folder provides in-depth explanations, hands-on examples, and supplem
    ```
 3. **Explore the Content:**
    - Browse the topic folders for detailed interview notes.
-   - Examine the personal project within `Personal_Project_🚀💡/HoopTrax` for a real-world application example.
+   - Examine the personal project within `Personal_Project/HoopTrax` for a real-world application example.
 4. **Launch the Personal Project (HoopTrax):**
    - **Run the Interactive App:**
      ```bash
-     cd Personal_Project_🚀💡/HoopTrax/Code/streamlit_app
+     cd Personal_Project/HoopTrax/Code/streamlit_app
      streamlit run app.py
      ```
    - **Or Run with Docker:**
      ```bash
-     cd Personal_Project_🚀💡/HoopTrax
+     cd Personal_Project/HoopTrax
      docker-compose up --build
      ```
 
