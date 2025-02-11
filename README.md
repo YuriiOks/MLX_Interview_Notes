@@ -28,7 +28,7 @@ This repository serves a dual purpose:
 [View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
 
 
-## 🚀 Personal Project: HoopTrax
+## 🚀 Personal Project: [HoopTrax](./Personal_Project/HoopTrax)
 
 **HoopTrax: NBA Performance Prediction & Analysis** is an end-to-end demonstration of data science and full-stack application development.
 
