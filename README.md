@@ -15,13 +15,13 @@ Welcome to the MLX Interview Notes Repository! This repository is a comprehensiv
 This repository serves a dual purpose:
 1. **Interview Notes:**  
    Detailed notes with coding examples, Jupyter notebooks, and visual aids covering crucial topics such as:
-   - **Command Line** 💻📂 
-   - **Docker** 🐋📦 
-   - **Git and GitHub** 🌳🐙 
+   - [**Command Line** 💻📂](./Command_Line_💻📂)
+   - [**Docker** 🐋📦](./Docker_🐋📦)
+   - [**Git and GitHub** 🌳🐙](./Git_and_GitHub_🌳🐙)
    - [**Machine Learning** 🤖📈](./Machine_Learning_🤖📈)
-   - [**Mathematics** ➗📊](./Mathematics)
-   - **Networking** 🌐🔗 
-   - **SQL & Postgres** 🗄️🐘 
+   - [**Mathematics** ➗📊](./Mathematics_➗📊)
+   - [**Networking** 🌐🔗](./Networking_🌐🔗)
+   - [**SQL & Postgres** 🗄️🐘](./SQL_&_Postgres_🗄️🐘)
 
 2. **Personal Project – HoopTrax:**  
    An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
