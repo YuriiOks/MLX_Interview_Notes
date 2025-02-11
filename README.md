@@ -23,17 +23,10 @@ This repository serves a dual purpose:
    - **Networking** 🌐🔗 
    - **SQL & Postgres** 🗄️🐘 
 
-## 🌟 Topics Covered
-
-Each topic folder provides in-depth explanations, hands-on examples, and supplemental materials to reinforce your understanding of the subject matter.
-
----
-
 2. **Personal Project – HoopTrax:**  
    An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
 [View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
 
----
 
 ## 🚀 Personal Project: HoopTrax
 
