@@ -19,32 +19,19 @@ This repository serves a dual purpose:
    - **Docker** 🐋📦 
    - **Git and GitHub** 🌳🐙 
    - **Machine Learning** 🤖📈 
-   - **Mathematics** (computational and theoretical topics)
+   - **Mathematics** ➗📊
    - **Networking** 🌐🔗 
    - **SQL & Postgres** 🗄️🐘 
-
-2. **Personal Project – HoopTrax:**  
-   An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
-[View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
-
----
-
-## 🗂 Repository Structure
-
-- **Command_Line_💻📂:** Contains Round1 and Round2 interview notes.
-- **Docker_🐋📦:** Docker practice notes (Round1 & Round2).
-- **Git_and_Github_🌳🐙:** Git workflows and examples (Round1 & Round2).
-- **Machine_Learning_🤖📈:** ML notes and resources (Round1 & Round2).
-- **Mathematics_📊:** Math concepts and exercises (Round1 & Round2).
-- **Networking_🌐🔗:** Networking fundamentals (Round1 & Round2).
-- **SQL_Postgres_🗄️🐘:** SQL and Postgres guides (Round1 & Round2).
-- **Personal_Project:** The HoopTrax project for NBA performance prediction and analysis.
-
----
 
 ## 🌟 Topics Covered
 
 Each topic folder provides in-depth explanations, hands-on examples, and supplemental materials to reinforce your understanding of the subject matter.
+
+---
+
+2. **Personal Project – HoopTrax:**  
+   An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
+[View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
 
 ---
 
