@@ -1,4 +1,4 @@
-# [MLX Interview Notes Repository](https://github.com/YuriiOks/MLX-Interview-Notes)
+# MLX Interview Notes Repository
 
 ![GitHub contributors](https://img.shields.io/github/contributors/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/YuriiOks/MLX_Interview_Notes?style=for-the-badge)
