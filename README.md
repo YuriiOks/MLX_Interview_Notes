@@ -18,22 +18,15 @@ This repository serves a dual purpose:
    - **Command Line** 💻📂 
    - **Docker** 🐋📦 
    - **Git and GitHub** 🌳🐙 
-   - **Machine Learning** 🤖📈 
-   - **Mathematics** ➗📊
+   - [**Machine Learning** 🤖📈](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Machine_Learning_%F0%9F%A4%96%F0%9F%93%88)
+   - [**Mathematics** ➗📊](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Mathematics_%E2%9E%97%F0%9F%93%8A)
    - **Networking** 🌐🔗 
    - **SQL & Postgres** 🗄️🐘 
-
-## 🌟 Topics Covered
-
-Each topic folder provides in-depth explanations, hands-on examples, and supplemental materials to reinforce your understanding of the subject matter.
-
----
 
 2. **Personal Project – HoopTrax:**  
    An end-to-end application for NBA Player Performance Prediction and Analysis featuring data processing, model training, interactive visualizations via Streamlit, and containerized deployment with Docker.
 [View the project folder](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Personal_Project/HoopTrax)
 
----
 
 ## 🚀 Personal Project: HoopTrax
 
