@@ -18,8 +18,8 @@ This repository serves a dual purpose:
    - **Command Line** 💻📂 
    - **Docker** 🐋📦 
    - **Git and GitHub** 🌳🐙 
-   - **Machine Learning** 🤖📈 
-   - **Mathematics** ➗📊
+   - [**Machine Learning** 🤖📈](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Machine_Learning_%F0%9F%A4%96%F0%9F%93%88)
+   - [**Mathematics** ➗📊](https://github.com/YuriiOks/MLX_Interview_Notes/tree/main/Mathematics_%E2%9E%97%F0%9F%93%8A)
    - **Networking** 🌐🔗 
    - **SQL & Postgres** 🗄️🐘 
 
