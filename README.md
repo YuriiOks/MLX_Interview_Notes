@@ -18,7 +18,7 @@ This repository serves a dual purpose:
    - **Command Line** 💻📂 
    - **Docker** 🐋📦 
    - **Git and GitHub** 🌳🐙 
-   - [**Machine Learning** 🤖📈](./Machine_Learning)
+   - [**Machine Learning** 🤖📈](./Machine_Learning_🤖📈)
    - [**Mathematics** ➗📊](./Mathematics)
    - **Networking** 🌐🔗 
    - **SQL & Postgres** 🗄️🐘 
